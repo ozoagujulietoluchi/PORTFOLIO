@@ -7,34 +7,30 @@ Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Act
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+*As a data enthusiast, I seek and utilize every opportunity to hone my skills in data analytics, data science, machine learning (ML), artificial intelligence (AI), and robotics .*
 
 **- ✅ Data Cleaning and Transformation.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
 **- ✅ Data Wrangling.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**"I analyzed the Profit and Loss (P&L) financial data of 67 Capital LTD from 2020 to 2023 and provided strategic recommendations**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+In today’s competitive financial landscape, understanding the intricacies of Profit and Loss (P&L) statements is essential for informed decision-making and strategic planning. This project aims to analyze the P&L statements of 67 Capital Ltd across six branches in South-South Nigeria from 2020 to 2023.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Providing Insights from the 2024 Dataset on the USA Presidential Election. **
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
+The 2024 United States Presidential Election dataset offers valuable insights into the political landscape, voter demographics, and election outcomes. This analysis aims to explore trends, patterns, and critical data points that shaped the election. By examining the dataset, we seek to understand the 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
