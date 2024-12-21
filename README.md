@@ -26,7 +26,8 @@ In today’s competitive financial landscape, understanding the intricacies of P
 
 **Providing Insights from the 2024 Dataset on the USA Presidential Election**
 
-![image]([US dashboard](https://github.com/ozoagujulietoluchi/PORTFOLIO/blob/9fc995ffd72e7d54c66bd55ec46f6808e95c3c2e/US_Dashboard_2.png))
+[image]([US dashboard](./US_Dashboard_2.png))
+
 
 The 2024 United States Presidential Election dataset offers valuable insights into the political landscape, voter demographics, and election outcomes. This analysis aims to explore trends, patterns, and critical data points that shaped the election. By examining the dataset, we seek to understand the 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
