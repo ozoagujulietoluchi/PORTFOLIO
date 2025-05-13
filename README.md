@@ -48,7 +48,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:julietoluchi13@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:julietoluchi13@gmail.com">julietoluchi13@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -68,7 +68,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com/@julietoluchi4565">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
