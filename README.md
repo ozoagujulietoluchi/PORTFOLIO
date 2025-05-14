@@ -80,7 +80,7 @@ engagement.
 
 HealthCare Departmental Report
 
-![image]()
+![image](https://github.com/ozoagujulietoluchi/PORTFOLIO/blob/main/performance%20of%20health%20department.png)
 
 This analysis evaluates the performance of Agbagbo Awha Imezi PHC in Ezeagu LGA between 
 the month of January to May 2023, with a total of 4,251 patients volume which were attended to 
