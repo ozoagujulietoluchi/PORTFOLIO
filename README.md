@@ -63,11 +63,21 @@ In today’s competitive financial landscape, understanding the intricacies of P
 The 2024 United States Presidential Election dataset offers valuable insights into the political landscape, voter demographics, and election outcomes. This analysis aims to explore trends, patterns, and critical data points that shaped the election. By examining the dataset, we seek to understand the 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Immunization Coverage Report Agbagbo Ahwa imezi**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image]()
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+This report presents a monitoring and evaluation analysis of the immunization coverage in 
+Agbagbo Awha Imezi, focusing on vaccination numbers, missed appointments, and stock-out 
+days among 0-18 years children who received immunization at Agbagbo Awha Imezi PHC in 
+Ezeagu LGA in Enugu State for two months (January and February). With a total of 9,370 
+individuals vaccinated, the average immunization coverage rate stood at 97%. Despite this 
+high coverage, the data reveals several challenges, such as significant vaccine stock-out days of 
+12, high missed appointments of 250, and regional disparities in service delivery. These 
+insights call for strategic improvements in logistics, communication (sensitization) and regional 
+engagement. 
+
+ 
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
