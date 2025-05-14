@@ -10,19 +10,37 @@ Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Act
 *As a data enthusiast, I seek and utilize every opportunity to hone my skills in data analytics, data science, machine learning (ML), artificial intelligence (AI), and robotics .*
 
 **✅Data Analysis & Statistics**
+
+•	Data Gathering
+
+•	Data cleaning and Transformation
+
+•	Data Wrangling
+
 •	Exploratory Data Analysis (EDA)
 
 •	Statistical Inference (e.g., hypothesis testing, confidence intervals)
 
 •	Regression Analysis (linear, logistic)
 
--	Time Series Analysis
-  
--Bayesian Statistics
+**✅Data Visualization**
 
--Data Cleaning and Transformation.
+•	Data Storytelling
 
-**- ✅ Data Wrangling.**
+•	Interactive Dashboards (Power BI)
+
+•	Advanced Excel Charting
+
+•	Matplotlib / Seaborn (Python)
+
+**✅Programming & Scripting** 
+
+•	Python for Data Analysis (Pandas, NumPy, Scikit-learn)
+
+•	R Programming (tidyverse, ggplot2)
+
+•	SQL Mastery (joins, window functions, CTEs, subqueries)
+
 
 <!--Section 2: List 3-4 key projects-->
 ## MY PROJECTS
