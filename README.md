@@ -76,7 +76,26 @@ high coverage, the data reveals several challenges, such as significant vaccine 
 12, high missed appointments of 250, and regional disparities in service delivery. These 
 insights call for strategic improvements in logistics, communication (sensitization) and regional 
 engagement. 
+[Read More]()
 
+HealthCare Departmental Report
+
+![image]()
+
+This analysis evaluates the performance of Agbagbo Awha Imezi PHC in Ezeagu LGA between 
+the month of January to May 2023, with a total of 4,251 patients volume which were attended to 
+by 304 healthcare staff across 10 departments, resulting in an average patient-to-staff ratio of 
+14:1, average wait time of 75.5 minutes, and average data entry time of 7 minutes. The 
+Emergency Department recorded the highest patient volume at 589 patients per day but also 
+had the worst patient-to-staff ratio (20:1) and a high wait time of 89.0 minutes, indicating 
+severe strain on resources. Conversely, Radiology had the lowest patient volume (303) and the 
+best staff ratio (9:1), making it a model for resource efficiency. The Orthopedics department 
+reported the longest average wait time of 98.8 minutes, despite moderate patient volume, 
+pointing to systemic inefficiencies, while Maternity had the shortest wait time (60 minutes). 
+Dermatology and ENT showed the fastest data entry turnaround (4 minutes), while  
+Orthopedics and Surgery lagged behind with 9 minutes. A notable anomaly occurred in April, 
+where wait times increased across multiple departments
+[Read More]()
  
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
