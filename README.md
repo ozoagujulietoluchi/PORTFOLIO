@@ -48,6 +48,7 @@ Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Act
 *A glimpse of some of the projects I've been working on.*
 
 **"I analyzed the Profit and Loss (P&L) financial data of 67 Capital LTD from 2020 to 2023 and provided strategic recommendations**
+
 ![image](profit and loss dashboard.jpg)
 
 
