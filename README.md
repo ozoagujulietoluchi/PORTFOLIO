@@ -11,10 +11,15 @@ Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Act
 
 **✅Data Analysis & Statistics**
 •	Exploratory Data Analysis (EDA)
+
 •	Statistical Inference (e.g., hypothesis testing, confidence intervals)
+
 •	Regression Analysis (linear, logistic)
+
 -	Time Series Analysis
+  
 -Bayesian Statistics
+
 -Data Cleaning and Transformation.
 
 **- ✅ Data Wrangling.**
