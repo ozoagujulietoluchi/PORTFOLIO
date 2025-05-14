@@ -19,8 +19,8 @@ Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Act
 *A glimpse of some of the projects I've been working on.*
 
 **"I analyzed the Profit and Loss (P&L) financial data of 67 Capital LTD from 2020 to 2023 and provided strategic recommendations**
-![image](1 anietie etuk data analytics car project.jpeg)
 ![image](profit and loss dashboard.jpg)
+
 
 In today’s competitive financial landscape, understanding the intricacies of Profit and Loss (P&L) statements is essential for informed decision-making and strategic planning. This project aims to analyze the P&L statements of 67 Capital Ltd across six branches in South-South Nigeria from 2020 to 2023.
 [Read More](https://www.linkedin.com/feed/update/urn:li:activity:7272214331436531712/)
