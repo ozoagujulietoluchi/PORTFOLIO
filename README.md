@@ -120,7 +120,7 @@ where wait times increased across multiple departments
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><">Download my CV</a></td>
+      <td><a href="https://github.com/ozoagujulietoluchi/PORTFOLIO/blob/main/OZOAGU%20JULIET%20OLUCHI%20CV%20FOR%20DATA%20ANALYTICS.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
