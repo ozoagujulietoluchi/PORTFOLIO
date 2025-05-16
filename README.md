@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ozoagu Juliet 🤓,Graduate Student of Prosthetist & Orthotist, Actively Seeking Internship Opportunities in Data Science and AI,Researcher,Women Techsters Fellow '2024,Analytic in Business, Finance, Health & More 
+Hello! I'm Ozoagu Juliet 🤓,a results-driven Data Analyst with expertise in healthcare analytics, financial reporting, and business intelligence. Skilled in transforming complex datasets into actionable insights using Power BI, SQL, Python, and Excel. Proven track record in optimizing operational efficiency, improving decision-making, and mentoring teams. Adept at stakeholder engagement, predictive modeling, and cross-functional collaboration.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
@@ -61,7 +61,7 @@ In today’s competitive financial landscape, understanding the intricacies of P
 
 
 The 2024 United States Presidential Election dataset offers valuable insights into the political landscape, voter demographics, and election outcomes. This analysis aims to explore trends, patterns, and critical data points that shaped the election. By examining the dataset, we seek to understand the 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anieti)
+[Read More]()
 
 **Immunization Coverage Report Agbagbo Ahwa imezi**
 
@@ -78,7 +78,7 @@ insights call for strategic improvements in logistics, communication (sensitizat
 engagement. 
 [Read More]()
 
-HealthCare Departmental Report
+**HealthCare Departmental Report**
 
 ![image](performance of health department.png)
 
