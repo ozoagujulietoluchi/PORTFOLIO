@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Ozoagu Juliet 🤓, Graduate Student of Prosthetist & Orthotist|| Actively Seeking Internship Opportunities in Data Science and AI|| Researcher||Women Techsters Fellow '2024 || Analytic in Business, Finance, Health & More 
+Hello! I'm Ozoagu Juliet 🤓,Graduate Student of Prosthetist & Orthotist, Actively Seeking Internship Opportunities in Data Science and AI,Researcher,Women Techsters Fellow '2024,Analytic in Business, Finance, Health & More 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## SKILLS
