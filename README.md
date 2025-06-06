@@ -65,7 +65,7 @@ The 2024 United States Presidential Election dataset offers valuable insights in
 
 **Immunization Coverage Report Agbagbo Ahwa imezi**
 
-![image](AGBAGBO IMMUNIZATION COVERAGE DASHBOARD.png)
+![image](https://github.com/ozoagujulietoluchi/PORTFOLIO/blob/main/AGBAGBO%20IMMUNIZATION%20COVERAGE%20DASHBOARD.png)
 
 This report presents a monitoring and evaluation analysis of the immunization coverage in 
 Agbagbo Awha Imezi, focusing on vaccination numbers, missed appointments, and stock-out 
